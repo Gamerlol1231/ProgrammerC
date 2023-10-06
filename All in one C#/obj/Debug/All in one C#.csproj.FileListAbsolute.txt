@@ -1,0 +1,7 @@
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\bin\Debug\All in one C#.exe.config
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\bin\Debug\All in one C#.exe
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\bin\Debug\All in one C#.pdb
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\obj\Debug\All in one C#.csproj.AssemblyReference.cache
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\obj\Debug\All in one C#.csproj.CoreCompileInputs.cache
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\obj\Debug\All in one C#.exe
+C:\Users\RI_Elev\OneDrive - Eskilstuna Kommun\Skrivbordet\Myfirstproject\All in one C#\obj\Debug\All in one C#.pdb
